@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    padding-left: 5px;
+    display: flex;
+}
+li{
+    height: 70vh;
+    width: 25vw;
+    box-shadow: 1px 2px 5px ;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    padding-top: 5vh;
+    background-color: rgb(222, 224, 230);
+}
+p{
+    border: solid 1px;
+    height: 17vh;
+    width: 21vw;
+    margin-left: 2vw;
+    border-radius: 3px;
+}
+

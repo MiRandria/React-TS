@@ -1,0 +1,35 @@
+form{
+    width: 40vw;
+    box-shadow: 1px 2px 5px ;
+    border-radius: 10px;
+    height: 50vh;
+    margin: auto;
+    margin-top: 5vh;
+    padding-top: 5vh;
+    padding-left: 6vw;
+    margin-bottom: 8vh;
+    background-color: rgb(222, 224, 230);
+}
+input[type=text]{
+    width: 30vw;
+    height: 30px;
+    margin-bottom: 10px;
+    
+}
+textarea{
+    width: 30vw;
+    height: 20vh;
+    margin-left: 3.2vw;
+    margin-bottom: 10px;
+}
+input[type=button]{
+    width: 10vw;
+    height: 6vh;
+    border-radius: 20px;
+    margin-left: 12vw;
+    margin-top: 20px;
+    background-color: rgb(29, 29, 61);
+    color: white;
+}
+
+
